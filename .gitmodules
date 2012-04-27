@@ -1,0 +1,3 @@
+[submodule "cloud-worker"]
+	path = cloud-worker
+	url = git@github.com:yati-sagade/cloud-worker.git
